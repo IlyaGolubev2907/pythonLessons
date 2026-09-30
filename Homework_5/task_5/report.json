@@ -1,0 +1,16 @@
+{
+    "total": 5,
+    "passed": 2,
+    "failed": 2,
+    "skipped": 1,
+    "failed_tests": [
+        "registration",
+        "checkout"
+    ],
+    "longest_test": {
+        "name": "checkout",
+        "status": "FAIL",
+        "duration": 5
+    },
+    "total_duration": 12
+}
