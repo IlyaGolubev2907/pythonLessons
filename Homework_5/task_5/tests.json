@@ -1,0 +1,29 @@
+{
+    "tests": [
+        {
+            "name": "login",
+            "status": "PASS",
+            "duration": 1
+        },
+        {
+            "name": "registration",
+            "status": "FAIL",
+            "duration": 3
+        },
+        {
+            "name": "logout",
+            "status": "PASS",
+            "duration": 1
+        },
+        {
+            "name": "buy",
+            "status": "SKIP",
+            "duration": 2
+        },
+        {
+            "name": "checkout",
+            "status": "FAIL",
+            "duration": 5
+        }
+    ]
+}
