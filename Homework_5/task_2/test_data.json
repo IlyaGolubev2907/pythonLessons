@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "login": "user1",
+      "password": "user1",
+      "expected_result": "SUCCESS"
+    },
+    {
+      "login": "user2",
+      "password": "user2",
+      "expected_result": "SUCCESS"
+    },
+    {
+      "login": "user3",
+      "password": "user3",
+      "expected_result": "SUCCESS"
+    },
+    {
+      "login": "user4",
+      "password": "user44",
+      "expected_result": "FAIL"
+    },
+    {
+      "login": "user5",
+      "password": "user55",
+      "expected_result": "FAIL"
+    },
+    {
+      "login": "user6",
+      "password": "user66",
+      "expected_result": "FAIL"
+    },
+    {
+      "login": "user7",
+      "password": "user77",
+      "expected_result": "FAIL"
+    },
+    {
+      "login": "user8",
+      "password": "user88"
+    }
+  ]
+}
